@@ -2,7 +2,7 @@
   "name": "blocks_sdk",
   "version": "1.0.0",
   "description": "Add and fetch data from the blockchain",
-  "main": "index.js",
+  "main": "src/index.js",
   "directories": {
     "test": "test"
   },
